@@ -10,6 +10,7 @@ body{
 
 #cimkep{
   float:left;  
+  height: 150px;
 }
 
 h1{
@@ -30,7 +31,9 @@ p{
 .erdekesseg{
   font-size: 70%;
   padding: 7px;
-  font-weight: normal;
+  font-style: italic;
+  font-weight:normal;
+  background-color: white;
 }
 
 li{
