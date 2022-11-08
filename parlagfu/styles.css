@@ -1,0 +1,42 @@
+body{
+    background-color:#9CEE59 ;
+}
+
+#table1{
+   width: 980px;
+    background-color:#509050;
+    margin:auto;
+    padding-bottom: 15px;
+}
+
+#table1 td{
+    margin:0px;
+    padding:0px;
+}
+
+#table2{
+    width: 940px;
+    margin: auto;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+#table2 #menu{
+    margin: 1px solid white;
+    background-color: black;
+    color:white;
+    text-align: center;
+    height: 40px;
+}
+#szoveg{
+    background-color: white;
+    text-align: left;
+}
+ä{
+    color:#999999;
+}
+#gyomlalas{
+    margin-left: 5px;
+    margin-right: 5px;
+    float: right;
+}

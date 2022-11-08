@@ -1,0 +1,59 @@
+body{
+    background-image: url(hatter2.jpg);
+}
+p{
+    color:white;
+}
+
+#bal,#jobb{
+    width:120px;
+}
+table{
+    text-align: left;
+    width: 1000px;
+    padding: 5px;
+    border: none;
+    column-gap: 60%;
+}
+#foszereplok{
+    margin-left: 150px;
+    border:none;
+    width: 80px;
+    padding: 5px;
+    text-align: center;
+    border-spacing: 15px;
+}
+hr{
+    width:80%;
+}
+#keleti{
+    text-align: center;
+
+}
+h2{
+    color: white;
+}
+
+#leiras{
+    max-width: 700px;
+    border: 1px;
+    text-align:justify;
+    margin-left: 150px;
+}
+
+#tizedes{
+    margin-left: 150px;
+}
+
+#wikipedia{
+   color:#C0C0C0;
+  float:right;
+   font-style: italic;
+}
+#sinkovics{
+ color:#C0C0C0;
+ float: right;
+   font-style: italic;
+
+}
+
